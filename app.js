@@ -51,3 +51,21 @@ logger.log('Hello Node');
 
 console.log(logger.num);
 // This will export the number from the node js logger module
+
+
+// MODULE WRAPPER FUNCTION 
+// Node does not execute our function directly, however it wraps it inside a function
+
+// (function (exports, require, module, __filename, __dirname){
+
+    //Code to be executed
+
+// })
+
+// Require --> It appears to be global, however it is local to each module.
+// Module -->
+// Exports -->
+
+// The __filename and __dirname are for filename and path name respectively.
+// C:\Users\syeds\OneDrive\Desktop\Node Practice\NodeJSBasics\logger.js
+// C:\Users\syeds\OneDrive\Desktop\Node Practice\NodeJSBasics

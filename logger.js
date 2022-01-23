@@ -15,3 +15,6 @@ module.exports.log = log;
 
 module.exports.num = num;
 // module.exports.endPoint = url; {let's keep it private}
+
+console.log(__filename);
+console.log(__dirname);
