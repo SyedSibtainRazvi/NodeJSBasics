@@ -69,3 +69,22 @@ console.log(logger.num);
 // The __filename and __dirname are for filename and path name respectively.
 // C:\Users\syeds\OneDrive\Desktop\Node Practice\NodeJSBasics\logger.js
 // C:\Users\syeds\OneDrive\Desktop\Node Practice\NodeJSBasics
+
+// What is NPM?
+// NPM is a package manager for Node.js packages, or modules if you like.
+
+// www.npmjs.com hosts thousands of free packages to download and use.
+
+// The NPM program is installed on your computer when you install Node.js
+
+// What is a Package?
+// A package in Node.js contains all the files you need for a module.
+
+// Modules are JavaScript libraries you can include in your project.
+
+// Download a Package
+// Downloading a package is very easy.
+
+// Open the command line interface and tell NPM to download the package you want.
+
+// I want to download a package called "upper-case":
